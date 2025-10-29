@@ -10,3 +10,5 @@ app.UseRouting();
 app.MapRazorPages();
 
 app.Run();
+
+// Comentário para representar um novo commit

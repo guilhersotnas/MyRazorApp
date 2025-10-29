@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\MyRazorApp\\MyRazorApp.csproj",
+      "projectUniqueName": "C:\\Projetos\\MyRazorAppClone\\MyRazorApp\\MyRazorApp.csproj",
       "projectName": "MyRazorApp",
-      "projectPath": "C:\\Projetos\\MyRazorApp\\MyRazorApp.csproj",
+      "projectPath": "C:\\Projetos\\MyRazorAppClone\\MyRazorApp\\MyRazorApp.csproj",
       "packagesPath": "C:\\Users\\guilhermesf\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\MyRazorApp\\obj\\",
+      "outputPath": "C:\\Projetos\\MyRazorAppClone\\MyRazorApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

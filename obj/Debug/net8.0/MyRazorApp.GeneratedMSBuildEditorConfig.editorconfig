@@ -9,43 +9,43 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MyRazorApp
 build_property.RootNamespace = MyRazorApp
-build_property.ProjectDir = C:\Projetos\MyRazorApp\
+build_property.ProjectDir = C:\Projetos\MyRazorAppClone\MyRazorApp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Projetos\MyRazorApp
+build_property.MSBuildProjectDirectory = C:\Projetos\MyRazorAppClone\MyRazorApp
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Projetos/MyRazorApp/Pages/Categories.cshtml]
+[C:/Projetos/MyRazorAppClone/MyRazorApp/Pages/Categories.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projetos/MyRazorApp/Pages/Index.cshtml]
+[C:/Projetos/MyRazorAppClone/MyRazorApp/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projetos/MyRazorApp/Pages/Login.cshtml]
+[C:/Projetos/MyRazorAppClone/MyRazorApp/Pages/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projetos/MyRazorApp/Pages/Shared/NavMenuPartial.cshtml]
+[C:/Projetos/MyRazorAppClone/MyRazorApp/Pages/Shared/NavMenuPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXE5hdk1lbnVQYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projetos/MyRazorApp/Pages/Shared/_Layout.cshtml]
+[C:/Projetos/MyRazorAppClone/MyRazorApp/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projetos/MyRazorApp/Pages/_ViewImports.cshtml]
+[C:/Projetos/MyRazorAppClone/MyRazorApp/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projetos/MyRazorApp/Pages/_ViewStart.cshtml]
+[C:/Projetos/MyRazorAppClone/MyRazorApp/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projetos/MyRazorApp/Pages/About.cshtml]
+[C:/Projetos/MyRazorAppClone/MyRazorApp/Pages/About.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWJvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-kh2dxft04v
